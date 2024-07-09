@@ -75,8 +75,3 @@ SESSION_SECRET=your_session_secret
   },
   "description": ""
 }
-
-
-Feel free to copy and paste this content into your `README.md` file. Adjust any placeholders and details to fit your project's specifics.
-
-
