@@ -5,7 +5,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4.x-orange)
 
 
-
 ## Description
 
 This is a mini project built with Node.js, Express, and MongoDB. It includes authentication using bcrypt and JSON Web Tokens (JWT), session management with express-session and connect-mongo, and more.
@@ -31,31 +30,10 @@ npm start
 # Start the server in development mode with nodemon
 npm run dev
 
-mini-project/
-│
-├── app.js
-├── index.js
-├── package.json
-├── node_modules/
-├── public/
-│   ├── images/
-│   └── styles/
-├── routes/
-│   ├── authRoutes.js
-│   └── ...
-├── models/
-│   ├── User.js
-│   └── ...
-└── views/
-    ├── layout/
-    │   └── layout.ejs
-    ├── home.ejs
-    └── ...
+1. Clone the repository:
 
-PORT=3000
-DB_URI=mongodb://localhost:27017/your_database_name
-SESSION_SECRET=your_session_secret
-
+   ```bash
+   git clone https://github.com/your-username/mini-project.git
 
 ### Package.json
 
@@ -90,11 +68,3 @@ SESSION_SECRET=your_session_secret
   },
   "description": ""
 }
-
-
-
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/mini-project.git
