@@ -71,4 +71,26 @@ npm run dev
   "description": ""
 }
 
+```css
+Feel free to copy and paste this content into your `README.md` file. Adjust any placeholders and details to fit your project's specifics.
 
+mini-project/
+│
+├── app.js
+├── index.js
+├── package.json
+├── node_modules/
+├── public/
+│   ├── images/
+│   └── styles/
+├── routes/
+│   ├── authRoutes.js
+│   └── ...
+├── models/
+│   ├── User.js
+│   └── ...
+└── views/
+    ├── layout/
+    │   └── layout.ejs
+    ├── home.ejs
+    └── ...
