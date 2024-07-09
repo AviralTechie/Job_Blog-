@@ -29,8 +29,7 @@ npm start
 # Start the server in development mode with nodemon
 npm run dev
 
-# Dependencies to be install 
-npm install express-session , bcrypt, connect-mongo,cookie-parser, dotenv, ejs, express, express-ejs-layouts, express-session, jsonwebtoken, method-override, mongoose 
+
 
 
 1. Clone the repository:
