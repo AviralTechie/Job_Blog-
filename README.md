@@ -1,4 +1,4 @@
-# Mini Project
+# Job-News Posting Website (Khoj)
 
 ![Node.js](https://img.shields.io/badge/Node.js-14.x-green)
 ![Express](https://img.shields.io/badge/Express-4.x-red)
@@ -30,7 +30,12 @@ npm start
 npm run dev
 
 
+# Configure
 
+<.env file>
+PORT=3000
+DB_URI=mongodb://localhost:27017/your_database_name
+SESSION_SECRET=your_session_secret
 
 1. Clone the repository:
       ```bash
@@ -71,26 +76,7 @@ npm run dev
   "description": ""
 }
 
-```css
+
 Feel free to copy and paste this content into your `README.md` file. Adjust any placeholders and details to fit your project's specifics.
 
-mini-project/
-│
-├── app.js
-├── index.js
-├── package.json
-├── node_modules/
-├── public/
-│   ├── images/
-│   └── styles/
-├── routes/
-│   ├── authRoutes.js
-│   └── ...
-├── models/
-│   ├── User.js
-│   └── ...
-└── views/
-    ├── layout/
-    │   └── layout.ejs
-    ├── home.ejs
-    └── ...
+
