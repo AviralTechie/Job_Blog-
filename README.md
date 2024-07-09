@@ -19,18 +19,21 @@ This is a mini project built with Node.js, Express, and MongoDB. It includes aut
 - [License](#license)
 
 ## Installation
-
+```bash
 cd mini-project
 
 npm install
 
 # Start the server
+```bash
 npm start
 
 # Start the server in development mode with nodemon
+```bash
 npm run dev
 
 # Dependencies to be install 
+```bash
 npm install express-session , bcrypt, connect-mongo,cookie-parser, dotenv, ejs, express, express-ejs-layouts, express-session, jsonwebtoken, method-override, mongoose 
 
 
