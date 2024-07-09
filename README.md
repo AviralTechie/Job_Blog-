@@ -14,9 +14,7 @@ This is a mini project built with Node.js, Express, and MongoDB. It includes aut
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Configuration](#configuration)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 ## Installation 
 
@@ -38,9 +36,10 @@ npm install express-session , bcrypt, connect-mongo,cookie-parser, dotenv, ejs, 
 1. Clone the repository:
       ```bash
    git clone https://github.com/your-username/mini-project.git
+   npm install express-session , bcrypt, connect-mongo,cookie-parser, dotenv, ejs, express, express-ejs-layouts, express-session, jsonwebtoken, method-override, mongoose
 
 ### Package.json
-'
+
 ```json
 {
   "name": "mini-project",
@@ -72,3 +71,5 @@ npm install express-session , bcrypt, connect-mongo,cookie-parser, dotenv, ejs, 
   },
   "description": ""
 }
+
+
